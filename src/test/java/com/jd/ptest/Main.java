@@ -24,20 +24,20 @@ public class Main {
 	}
  	
  	public static void txtLoopEntity() {
- 		LoopHandler entity = new LoopHandler("sdk_customer_params.txt", ",", "UTF-8");
-		entity.initVarNames("userPin","token","appId","venderId","groupId","venderName","entry");
+ 		LoopHandler entity = new LoopHandler("customer_params.txt", ",", "UTF-8");
+		entity.initVarNames("userName","token","appId","venderId","groupId","venderName","entry");
 		Main.runLoop(entity);
 	}
  	
  	public static void multiFileHandler() {
  		String testFile = "user_pins100W.txt";
- 		String sdkFile = "sdk_customer_params.txt";
+ 		String sdkFile = "customer_params.txt";
  		MultiFileHandler handler = new MultiFileHandler();
  		handler.initFile(testFile, ",", "UTF-8", false);
  		handler.initVarNames("pin");
  		
  		handler.initFile(sdkFile, ",", "UTF-8", false);
- 		handler.initVarNames("userPin","token","appId","venderId","groupId","venderName","entry");
+ 		handler.initVarNames("userName","token","appId","venderId","groupId","venderName","entry");
  		
  		for (int i = 0; i < 1; i++) {
 			LineContext context = handler.next();

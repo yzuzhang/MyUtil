@@ -4,7 +4,7 @@ import com.jd.ptest.entity.*;
 
 /**
  * 工具使用示例
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年9月13日
  */
 public class Main {

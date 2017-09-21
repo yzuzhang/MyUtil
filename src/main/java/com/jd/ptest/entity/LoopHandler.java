@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 循环获取参数化文件处理器
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年8月8日
  */
 public class LoopHandler extends AbstractHandler {

@@ -8,7 +8,7 @@ import com.jd.ptest.util.FileUtil;
 
 /**
  * 抽象处理类
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年8月8日
  */
 public abstract class AbstractHandler {

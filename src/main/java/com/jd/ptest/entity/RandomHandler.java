@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * 随机获取参数化文件数据处理器
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年8月8日
  */
 public class RandomHandler extends AbstractHandler{

@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 /**
  * 参数化行数据封装类
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年8月8日
  */
 public class LineContext extends HashMap<String, Object> {

@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 文件处理工具类
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年8月8日
  */
 public class FileUtil {

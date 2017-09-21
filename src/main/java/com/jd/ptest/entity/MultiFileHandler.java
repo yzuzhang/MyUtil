@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * 构造多个参数化文件处理器
- * @author sqzhanglei7
+ * @author yzuzhang
  * @date 2017年8月9日
  */
 public class MultiFileHandler extends AbstractHandler{

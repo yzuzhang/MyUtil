@@ -1,4 +1,4 @@
-package com.jd.ptest.util;
+package com.yzu.zhang.util;
 
 import java.util.Random;
 

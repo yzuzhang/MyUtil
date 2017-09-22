@@ -1,4 +1,4 @@
-package com.jd.ptest.entity;
+package com.yzu.zhang.entity;
 
 import java.util.HashMap;
 import java.util.List;

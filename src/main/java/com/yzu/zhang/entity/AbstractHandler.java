@@ -1,10 +1,10 @@
-package com.jd.ptest.entity;
+package com.yzu.zhang.entity;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.jd.ptest.entity.LineContext;
-import com.jd.ptest.util.FileUtil;
+import com.yzu.zhang.entity.LineContext;
+import com.yzu.zhang.util.FileUtil;
 
 /**
  * 抽象处理类

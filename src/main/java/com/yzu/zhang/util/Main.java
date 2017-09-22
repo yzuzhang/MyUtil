@@ -1,6 +1,6 @@
-package com.jd.ptest.util;
+package com.yzu.zhang.util;
 
-import com.jd.ptest.entity.*;
+import com.yzu.zhang.entity.*;
 
 /**
  * 工具使用示例
